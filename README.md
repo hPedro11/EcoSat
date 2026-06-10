@@ -7,6 +7,7 @@ O **EcoSat** é uma plataforma móvel que consome dados públicos de satélite d
 
 ---
 
+
 ## 👥 Integrantes
 
 |        Nome                   |    RM    |
